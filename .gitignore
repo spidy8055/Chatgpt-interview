@@ -1,0 +1,14 @@
+# Node/Electron
+node_modules/
+dist/
+out/
+release/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Huge unpacked runtime artifacts (recommended to ignore)
+win-unpacked/
